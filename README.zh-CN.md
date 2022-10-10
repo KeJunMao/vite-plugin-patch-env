@@ -7,7 +7,7 @@
 ## 安装
 
 ```
-pnpm i vite-plugin-patch-env
+pnpm i -D vite-plugin-patch-env
 ```
 
 ## 使用

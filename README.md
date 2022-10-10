@@ -7,7 +7,7 @@ English | [简体中文](./README.zh-CN.md)
 ## Installation
 
 ```
-pnpm i vite-plugin-patch-env
+pnpm i -D vite-plugin-patch-env
 ```
 
 ## Usage
