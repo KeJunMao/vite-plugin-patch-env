@@ -2,6 +2,7 @@
   "name": "vite-plugin-patch-env",
   "type": "module",
   "version": "0.0.1",
+  "license": "MIT",
   "packageManager": "pnpm@7.12.0",
   "description": "",
   "homepage": "https://github.com/KeJunMao/vite-plugin-patch-env",
@@ -41,8 +42,7 @@
     "prepublishOnly": "nr build",
     "release": "bumpp && npm publish",
     "start": "esno src/index.ts",
-    "typecheck": "tsc --noEmit",
-    "postinstall": "unbuild"
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@types/node": "^18.7.21",
