@@ -51,4 +51,4 @@ export interface Options {
 }
 ```
 
-use `names` to filter env, default path all env
+use `names` to filter env, default patch all env
