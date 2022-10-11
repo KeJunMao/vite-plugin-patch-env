@@ -1,6 +1,8 @@
+<img src="./assets/logo.svg" alt="logo of vite-plugin-patch-env repository" width="100" height="100" align="right" />
+
 # vite-plugin-patch-env
 
-此插件用于将从系统中的环境变量注入到 Vite 中
+> 此插件用于将从系统中的环境变量注入到 Vite 中
 
 [English](./README.md) | 简体中文
 
