@@ -20,12 +20,6 @@ importers:
       unbuild: 0.8.11
       vite: 3.1.7
 
-  examples:
-    specifiers:
-      vite-plugin-patch-env: workspace:^0.0.1
-    devDependencies:
-      vite-plugin-patch-env: link:..
-
 packages:
 
   /@ampproject/remapping/2.2.0:
