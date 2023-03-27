@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.5",
   "license": "MIT",
-  "packageManager": "pnpm@7.30.0",
+  "packageManager": "pnpm@7.30.5",
   "description": "",
   "homepage": "https://github.com/KeJunMao/vite-plugin-patch-env",
   "repository": {
