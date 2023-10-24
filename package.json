@@ -46,7 +46,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@types/node": "^18.11.12",
+    "@types/node": "^20.0.0",
     "bumpp": "^9.0.0",
     "esno": "^0.17.0",
     "pnpm": "^8.0.0",
